@@ -188,6 +188,7 @@ header{
     background-color:#565564;
 }
 @media (max-width: 1100px) {
+    
     .search-container{
         background: none;
     }
